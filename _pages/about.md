@@ -12,4 +12,4 @@ This
 
 News
 ======
-(1 Sep. 2019 Hello world)
+- (01 Sep. 2019) Hello world
