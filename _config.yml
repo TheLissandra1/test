@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :  # &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "COH"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "School of Electrical Engineering and Computer Science, Queen Mary University of London, United Kingdom"
+  bio              : "School of Electrical Engineering and Computer Science, Queen Mary University of London, United Kingdom"
+  location         : 
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
